@@ -1,13 +1,13 @@
-### Oie! Me chamo Évila Oliveira 🤓
+### Oie! Eu sou a Évila Oliveira 🤓
+
+É um prazer compartilhar meu aprendizado contínuo e os projetos em desenvolvimento.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9vilaoliveira/)
 
 ![Evicsss GitHub stats](https://github-readme-stats.vercel.app/api?username=evicsss&show_icons=true&theme=highcontrast)
 
-🎓 Estudante de Engenharia de Software
 
-Sou uma apaixonada por tecnologia em transição de carreira, trazendo habilidades sólidas de comunicação e resolução de problemas de minha experiência em atendimento ao público. Estou focada em aprimorar minhas habilidades em desenvolvimento full-stack e estou sempre buscando aprender e aplicar novas tecnologias para criar soluções impactantes.
 
 ## Tecnologias em que estou mergulhando diariamente:
 <div style="display: inline_block"><br/>
