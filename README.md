@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+England+SemiJoined&pause=1000&color=F7E767&background=FFFFFF00&width=435&lines=Bem-vindo+ao+meu+GitHub!;+Aqui+voc%C3%AA+encontrar%C3%A1+um+pouco+do+que+estou+criando+e+aprendendo." alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+England+SemiJoined&pause=1000&color=F7E767&background=FFFFFF00&width=435&lines=Bem-vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+%C3%89vila+Oliveira+%F0%9F%A4%93" alt="Typing SVG" /></a>
+</div>
+
 
 <p align="center">
   <em>Com um espírito explorador e uma dedicação ao aprendizado, busco sempre expandir e aplicar minhas habilidades de forma criativa.</em>
