@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou a Évila Oliveira! 🤓</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playwrite+England+SemiJoined&pause=1000&color=F7E767&background=FFFFFF00&width=435&lines=Bem-vindo+ao+meu+espa%C3%A7o+no+GitHub!;Meu+nome+%C3%A9+%C3%89vila+Oliveira+%F0%9F%A4%93)](https://git.io/typing-svg)
 
 <p align="center">
-  <em>Motivada pela inovação e movida pelo aprendizado, buscando aprimorar e aplicar conhecimentos em desenvolvimento Full Stack.</em>
+  <em>Com um espírito explorador e uma dedicação ao aprendizado, busco sempre expandir e aplicar minhas habilidades de forma criativa.</em>
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 </p>
 
 ---
-- * Estudante de Engenharia de Software
-- * Aprendendo e aplicando conhecimentos em **Desenvolvimento Full Stack**
+- Estudante de Engenharia de Software
+- Aprendendo e aplicando conhecimentos em **Desenvolvimento Full Stack**
 ---
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evicsss&show_icons=true&theme=highcontrast" alt="Evila Oliveira's stats"/>
@@ -28,10 +28,13 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="sass" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
 ---
