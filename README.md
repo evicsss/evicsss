@@ -1,4 +1,4 @@
-<h2 align="center">Bem-vindo ao meu GitHub! Aqui você encontrará um pouco do que estou criando e aprendendo.</h2>
+<h2 align="center">Bem-vindo ao meu GitHub!</h2>
 
 <p align="center">
   <em>Com um espírito explorador e uma dedicação ao aprendizado, busco sempre expandir e aplicar minhas habilidades de forma criativa.</em>
