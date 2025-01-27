@@ -1,7 +1,7 @@
 <h2 align="center">Bem-vindo ao meu GitHub!</h2>
 
 <p align="center">
-  <em>Com um espírito explorador e uma dedicação ao aprendizado, busco sempre expandir e aplicar minhas habilidades de forma criativa.</em>
+  <em>Sou apaixonada por tecnologia e aprendizado contínuo. Aqui, compartilho projetos que refletem minha trajetória, curiosidade e dedicação em transformar desafios em oportunidades de crescimento.</em>
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -34,7 +33,6 @@
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="sass" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
 ---
